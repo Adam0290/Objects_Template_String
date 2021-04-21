@@ -1,0 +1,15 @@
+/* Creating a list of Objects using Template String */
+
+
+#showcase{  /* gave it ID so we can grab the element using Javascript */
+border: 1px solid black;
+width: 80%;
+height: fit-content; 
+}
+
+.card {
+ width: 100px;
+ height: 100px;;
+ color: white;
+}
+
